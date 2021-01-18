@@ -1,6 +1,6 @@
-# Lab-3-Teorema-de-superposicion-
+# Lab-3-Teorema-de-Superposicion-
 
---------Teorema de Superposicion 
+--------Teorema de Superposicion -------
 
 ---------(Circuitos Electricos)-------
 
