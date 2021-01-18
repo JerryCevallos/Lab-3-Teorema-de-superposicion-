@@ -1,6 +1,7 @@
 # Lab-3-Teorema-de-superposicion-
 
---------Teorema de Superposicion -------
+--------Teorema de Superposicion 
+
 ---------(Circuitos Electricos)-------
 
 Objetivos
