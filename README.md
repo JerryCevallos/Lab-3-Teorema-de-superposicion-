@@ -137,3 +137,44 @@ Como podemos observar la solución por superposición es igual a la solución co
 Lo que hicimos aquí se llama la superposición lineal de dos circuitos.
 
 ----Material o Equipo requerido----
+
+![Material o equipo](https://user-images.githubusercontent.com/75337022/104977489-a8cb5e00-59cd-11eb-8517-56036614a4f6.png)
+
+----Diagramas----
+
+![Diagrama](https://user-images.githubusercontent.com/75337022/104977556-cf899480-59cd-11eb-8d2c-737e733ed77c.png)
+
+----Tabulacion de datos---
+
+![Tabulacion de datos](https://user-images.githubusercontent.com/75337022/104977566-d6b0a280-59cd-11eb-9e95-8e42f5ab3dfc.png)
+
+----Calcul y errores----
+
+![Calculo fuente 1](https://user-images.githubusercontent.com/75337022/104977596-e5975500-59cd-11eb-9b10-6a16c65db8c4.png)
+
+![Calculos fuente 2](https://user-images.githubusercontent.com/75337022/104977615-ecbe6300-59cd-11eb-9168-e744093c13d2.png)
+
+![Errores voltaje y corriente](https://user-images.githubusercontent.com/75337022/104977623-f2b44400-59cd-11eb-9d8f-a53aaab2e60e.png)
+
+![Errores ix y va](https://user-images.githubusercontent.com/75337022/104977636-f942bb80-59cd-11eb-8743-80a09c63ac63.png)
+
+----Conclusiones----
+
+•	Al momento realizar la practica hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circuitos que tengan más de una fuente de carga conectada a él, pues estos pueden ser separados y al momento de sumarlos se puede dar cuenta que existe una precisión muy grande entre ellos 
+
+•	Podemos comprobar con las tablas comparativas que este teorema es como una propiedad matemática viéndolo desde otro punto de vista el cual señala que la suma de los factores es igual a el factor total.
+
+---Recomendaciones----
+
+•	Realizar ejercicios donde se tenga que trabajar con circuitos que tengas más de dos fuentes ya que como sabemos el número de fuentes será el número de sub-circuitos con os que vamos a trabajar mejorando nuestra comprensión y elaboración de las ecuaciones para hallar los valores previamente solicitados
+
+•	Tomar en cuenta que cuando tenemos una fuente de voltaje esta mismo se cierra o en otras palabras se cortocircuita y cuando tenemos una fuente de corriente esta se abre
+
+---Bibliografia----
+
+Khan Academy, 2021, Ciencia, Ingeniería Eléctrica, Análisis de circuitos, Análisis de circuitos de corriente directa: 
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-
+
+Ing. Darwin, 2019, TEOREMA DE SUPERPOSICIÓN (circuitos eléctricos) - EJEMPLO 1: https://www.youtube.com/watch?v=Ygx2dQIwe7Q
+
+----Axenos----
