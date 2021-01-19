@@ -195,13 +195,13 @@ Ing. Darwin, 2019, TEOREMA DE SUPERPOSICIÓN (circuitos eléctricos) - EJEMPLO 1
 
 ![Anexo 4](https://user-images.githubusercontent.com/75337022/104978354-af5ad500-59cf-11eb-81e6-e7e6e14a6b59.png) 
  
-1.4	Obtenemos los resultados para la primera fuente 
+1.4	Obtenemos los resultados para la fuente 1 (20 V)
  
  ![Anexo 5 1](https://user-images.githubusercontent.com/75337022/104978371-b84ba680-59cf-11eb-9b69-4a6231a40965.png)
  
  ![Anexo 5](https://user-images.githubusercontent.com/75337022/104978444-d6190b80-59cf-11eb-82c9-aa53666544b1.png)
  
-1.5	Obtenemos los resultados para la segunda fuente
+1.5	Obtenemos los resultados para la fuente 2  (12 V)
 
 ![Anexo 6](https://user-images.githubusercontent.com/75337022/104978411-c8638600-59cf-11eb-9117-ed3d48f9c7a8.png)
  
