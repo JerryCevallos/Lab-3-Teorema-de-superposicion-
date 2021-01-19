@@ -148,7 +148,7 @@ Lo que hicimos aquí se llama la superposición lineal de dos circuitos.
 
 ![Tabulacion de datos](https://user-images.githubusercontent.com/75337022/104977566-d6b0a280-59cd-11eb-9e95-8e42f5ab3dfc.png)
 
-----Calcul y errores----
+----Calculos y errores----
 
 ![Calculo fuente 1](https://user-images.githubusercontent.com/75337022/104977596-e5975500-59cd-11eb-9b10-6a16c65db8c4.png)
 
@@ -177,4 +177,34 @@ https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-to
 
 Ing. Darwin, 2019, TEOREMA DE SUPERPOSICIÓN (circuitos eléctricos) - EJEMPLO 1: https://www.youtube.com/watch?v=Ygx2dQIwe7Q
 
-----Axenos----
+----Anexos-----
+
+![Anexo 1](https://user-images.githubusercontent.com/75337022/104978277-80446380-59cf-11eb-9d9d-66004c94473d.png)
+
+1.1	Tomamos los materiales para el circuito
+
+![Anexo 2](https://user-images.githubusercontent.com/75337022/104978299-92be9d00-59cf-11eb-9775-50cdf8f7f703.png)
+ 
+1.2	Armamos el circuito 
+
+![Anexo 3](https://user-images.githubusercontent.com/75337022/104978318-9c480500-59cf-11eb-8990-74b014c0b44e.png)
+ 
+1.3	Verificamos las mediciones de voltaje y corriente en el circuito
+
+![Anexo 4 1](https://user-images.githubusercontent.com/75337022/104978344-a79b3080-59cf-11eb-93d4-3b0d1b491de3.png)
+
+![Anexo 4](https://user-images.githubusercontent.com/75337022/104978354-af5ad500-59cf-11eb-81e6-e7e6e14a6b59.png) 
+ 
+1.4	Obtenemos los resultados para la primera fuente 
+ 
+ ![Anexo 5 1](https://user-images.githubusercontent.com/75337022/104978371-b84ba680-59cf-11eb-9b69-4a6231a40965.png)
+ 
+ ![Anexo 5](https://user-images.githubusercontent.com/75337022/104978444-d6190b80-59cf-11eb-82c9-aa53666544b1.png)
+ 
+1.5	Obtenemos los resultados para la segunda fuente
+
+![Anexo 6](https://user-images.githubusercontent.com/75337022/104978411-c8638600-59cf-11eb-9117-ed3d48f9c7a8.png)
+ 
+1.6 Resultado final del circuito
+
+
